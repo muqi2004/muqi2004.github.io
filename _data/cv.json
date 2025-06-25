@@ -1,40 +1,30 @@
 {
   "basics": {
-    "name": "颜之棋",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Yan Zhiqi",
+    "email": "y202208010605@hnu.edu.cn",
+    "phone": "15005128660",
+    "website": "https://muqi2004.github.io",
+    "summary": "Currently studying at Hunan University. ",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Changsha",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "muqi2004",
+        "url": "https://github.com/muqi2004"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "HUnan University",
+      "area": "Changsha-CN",
       "studyType": "",
       "startDate": "",
       "endDate": "2018",
@@ -47,15 +37,6 @@
       "studyType": "",
       "startDate": "",
       "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
       "gpa": null,
       "courses": []
     }
