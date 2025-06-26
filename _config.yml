@@ -7,9 +7,9 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Changsha-CN"
+locale                   : "zh-CN"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Personal Site of Yan Zhiqi" 
 title_separator          : "-"
 name                     : &name "Yan Zhiqi" # Your name, used in the site title and author profile
 description              : &description "personal description"
