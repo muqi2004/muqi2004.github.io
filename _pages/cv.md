@@ -14,8 +14,17 @@ redirect_from:
 * 本科在读，湖南大学 信息科学与工程学院  
   专业：计算机科学与技术  
   时间：2022年9月 - 预计2026年6月  
-<!-- 
-Work experience
+
+  
+能力
+======
+* 英语能力：CET-6:460+
+* 编程能力
+  * C++:CCF认证220分
+  * Python:独立完成多个项目，掌握爬虫、数据分析（如 Pandas、Matplotlib）、Web 简易开发，模型部署微调等。
+* Skill 3
+
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -30,17 +39,8 @@ Work experience
 * Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git -->
-  
-能力
-======
-* 英语能力：CET-6:460+
-* 编程能力
-  * C++:CCF认证220分
-  * Python:独立完成多个项目，掌握爬虫、数据分析（如 Pandas、Matplotlib）、Web 简易开发，模型部署微调等。
-* Skill 3
-
-<!-- Publications
+  * Supervisor: Professor Git 
+Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
