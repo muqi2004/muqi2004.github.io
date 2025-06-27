@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 本科在读，湖南大学 信息科学与工程学院  
+  专业：计算机科学与技术  
+  时间：2022年9月 - 预计2026年6月  
 <!-- 
 Work experience
 ======
@@ -32,16 +32,15 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git -->
   
-Skills
+能力
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* 英语能力：CET-6:460+
+* 编程能力
+  * C++:CCF认证220分
+  * Python:独立完成多个项目，掌握爬虫、数据分析（如 Pandas、Matplotlib）、Web 简易开发，模型部署微调等。
 * Skill 3
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
