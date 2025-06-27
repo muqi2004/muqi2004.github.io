@@ -22,7 +22,7 @@ repository               : "muqi2004/muqi2004.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/profile.png"
+  avatar           : "profile.png"
   name             : "Yan Zhiqi"
   pronouns         : 
   bio              : 
