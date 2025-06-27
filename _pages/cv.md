@@ -22,7 +22,6 @@ redirect_from:
 * 编程能力
   * C++:CCF认证220分
   * Python:独立完成多个项目，掌握爬虫、数据分析（如 Pandas、Matplotlib）、Web 简易开发，模型部署微调等。
-* Skill 3
 
 <!-- Work experience
 ======
