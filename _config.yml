@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "zh-CN"
 site_theme               : "default"
-title                    : "Personal Site of Yan Zhiqi" 
+title                    : "个人主页" 
 title_separator          : "-"
-name                     : &name "Yan Zhiqi" # Your name, used in the site title and author profile
-description              : &description "personal description"
+name                     : &name "颜之棋" # Your name, used in the site title and author profile
+description              : &description "目前就读于湖南大学本科学位"
 url                      : "https://muqi2004.github.io/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "muqi2004/muqi2004.github.io"
@@ -23,11 +23,11 @@ repository               : "muqi2004/muqi2004.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yan Zhiqi"
+  name             : "颜之棋"
   pronouns         : 
   bio              : 
-  location         : "Changsha"
-  school         : "Hunan Univerity"
+  location         : "中国-长沙"
+  school           : "湖南大学"
   uri              : # URL
   email            : "y202208010605@hnu.edu.cn" 
 
