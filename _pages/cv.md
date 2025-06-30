@@ -20,8 +20,9 @@ redirect_from:
 ======
 * 英语能力：CET-6:460+
 * 编程能力
-  * C++:CCF认证220分
+  * C++:CCF认证210分
   * Python:独立完成多个项目，掌握爬虫、数据分析（如 Pandas、Matplotlib）、Web 简易开发，模型部署微调等。
+  * 会使用docker容器技术
 
 <!-- Work experience
 ======

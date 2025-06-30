@@ -41,7 +41,7 @@ author:
   pubmed           : 
   researchgate     : # URL
   scopus           : # URL
-
+  #csdn             : "https://blog.csdn.net/m0_73283134?spm=1000.2115.3001.5343"
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
@@ -75,7 +75,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-
+  csdn             : 木其mq
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
