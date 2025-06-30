@@ -5,6 +5,6 @@ permalink: /posts/2025/06/parallel_algorithm/
 tags:
   - 算法
   - 分布式
+link: https://blog.csdn.net/m0_73283134/article/details/149018755?spm=1001.2014.3001.5501
 ---
 
-本文综述了异构并行计算中的任务调度算法，将其分为基于列表和基于任务复制两大类。基于列表的算法包括MCP（采用ALAP时间优先级）、ISH（利用空闲时间槽）、DLS（动态优先级调整）、MH（事件驱动）、ETF（最早任务优先）和HEFT（异构最早完成时间），这些算法主要通过优先级排序和处理器选择优化调度。基于任务复制的算法如DSH、BTDH、CPFD、DFRN和LCTD，通过复制关键任务以减少通信延迟。
